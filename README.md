@@ -1,5 +1,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=NoorMohammedAnik&color=blue&style=flat)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/NoorMohammedAnik&title=Profile%20Views)](https://hits.seeyoufarm.com)
+
+
 # Hi there! 👋 I'm Noor Mohammed Anik  
 
 Welcome to my GitHub profile! I’m a **Mobile Apps Developer** with over **7 years of experience** creating innovative and user-friendly applications for **Android** and **iOS** platforms. My expertise lies in building scalable, efficient, and visually appealing mobile solutions that meet user needs and business goals.  
