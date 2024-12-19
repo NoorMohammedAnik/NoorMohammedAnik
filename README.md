@@ -27,15 +27,15 @@ Welcome to my GitHub profile! I’m a **Mobile Apps Developer** with over **7 ye
 
 ## 📫 Connect With Me  
 - **LinkedIn:** [Noor Mohammed Anik](https://www.linkedin.com/in/noor-mohammed-anik)  
-- **Fiverr:** [My Fiverr Profile](https://www.fiverr.com/)  
-- **Email:** [your-email@example.com](mailto:your-email@example.com)  
+- **CodeCanyon:** [My CodeCanyon Profile]([https://www.fiverr.com](https://codecanyon.net/user/onlinesoftsell/portfolio)/)  
+- **Email:** [noormohammedanik@gmail.com](mailto:noormohammedanik@gmail.com)  
 
 ## 🏆 Highlights  
-- Successfully developed and launched **20+ mobile applications** on Play Store and App Store.  
+- Successfully developed and launched **100+ mobile applications** on the Play Store and App Store for clients worldwide.
 - Proficient in both **native** and **cross-platform development** with a keen eye for detail and user experience.  
 
 ## ⚡ Fun Fact  
-When I’m not coding, I love exploring new tech trends, traveling, and sharing knowledge with the developer community.  
+When I’m not coding, I love exploring new tech trends, traveling, teaching students, and sharing knowledge with the developer community.  
 
 
 Let’s create something amazing together! 🚀  
