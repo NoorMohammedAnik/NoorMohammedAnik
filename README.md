@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I’m a **Mobile Apps Developer** with over **7 ye
 
 ## 📫 Connect With Me  
 - **LinkedIn:** [Noor Mohammed Anik](https://www.linkedin.com/in/noor-mohammed-anik)  
-- **CodeCanyon:** [My CodeCanyon Profile]([https://www.fiverr.com](https://codecanyon.net/user/onlinesoftsell/portfolio))  
+- **CodeCanyon:** [My CodeCanyon Profile](https://codecanyon.net/user/onlinesoftsell/portfolio)  
 - **Email:** [noormohammedanik@gmail.com](mailto:noormohammedanik@gmail.com)  
 
 ## 🏆 Highlights  
