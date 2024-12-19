@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=NoorMohammedAnik&color=blue&style=flat)
 
 # Hi there! 👋 I'm Noor Mohammed Anik  
 
