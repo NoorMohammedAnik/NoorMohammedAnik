@@ -20,10 +20,10 @@ Welcome to my GitHub profile! I’m a **Mobile Apps Developer** with over **7 ye
 - Cross-platform or native app development initiatives.  
 
 ## 💻 Tech Stack  
-- **Languages:** Kotlin, Java, Swift, Dart, JavaScript  
-- **Frameworks:** Flutter, React Native  
+- **Languages:** Kotlin, Java, Swift, Dart, JavaScript, Python 
+- **Frameworks:** Flutter, React Native, Laravel  
 - **Backend Integration:** Firebase, REST APIs, GraphQL  
-- **Tools:** Android Studio, Xcode, Git, Postman  
+- **Tools:** Android Studio, Xcode, Git, Postman , VS Code 
 - **UI/UX Tools:** Figma, Adobe XD  
 
 ## 📫 Connect With Me  
